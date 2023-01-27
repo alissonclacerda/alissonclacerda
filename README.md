@@ -15,5 +15,5 @@ Currently working as a contract management analyst  at an Iberdrola Group compan
 
 ##✍️  CERTIFICATES:
 
-[![DATA ANALYTICS](https://img.shields.io/badge/DATA%20ANALYTICS-DATA%20ANALYTICS-brightgreen)](https://www.credly.com/badges/8acf52ec-68ac-4e8e-96ee-d30eb2a9ebaa/public_url]())
+[![DATA ANALYTICS](https://img.shields.io/badge/DATA%20ANALYTICS-%20-brightgreen)](https://www.credly.com/badges/8acf52ec-68ac-4e8e-96ee-d30eb2a9ebaa/public_url]())
 
