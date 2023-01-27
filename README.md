@@ -15,4 +15,4 @@ Currently working as a contract management analyst  at an Iberdrola Group compan
 
 ##✍️  CERTIFICATES:
 
-![BADGE](https://www.credly.com/badges/8acf52ec-68ac-4e8e-96ee-d30eb2a9ebaa/public_url)
+![https://www.credly.com/badges/8acf52ec-68ac-4e8e-96ee-d30eb2a9ebaa/public_url](https://www.credly.com/badges/8acf52ec-68ac-4e8e-96ee-d30eb2a9ebaa/public_url)
