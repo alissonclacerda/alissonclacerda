@@ -11,9 +11,10 @@ Currently working as a contract management analyst  at an Iberdrola Group compan
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alissonclacerda&theme=dark&hide_border=false)<br/>
 
 ###✍️ Random Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ##✍️  CERTIFICATES:
 
-[![DATA ANALYTICS](https://img.shields.io/badge/DATA%20ANALYTICS-%20-brightgreen)](https://www.credly.com/badges/8acf52ec-68ac-4e8e-96ee-d30eb2a9ebaa/public_url]())
+[![DATA ANALYTICS ESSENTIALS](https://img.shields.io/badge/DATA%20ANALYTICS%20ESSENTIALS-%20-brightgreen)](https://www.credly.com/badges/8acf52ec-68ac-4e8e-96ee-d30eb2a9ebaa/public_url]())
 
