@@ -16,5 +16,7 @@ Currently working as a contract management analyst  at an Iberdrola Group compan
 
 ##✍️  CERTIFICATES:
 
-[![DATA ANALYTICS ESSENTIALS](https://img.shields.io/badge/DATA%20ANALYTICS%20ESSENTIALS-%20-brightgreen)](https://www.credly.com/badges/8acf52ec-68ac-4e8e-96ee-d30eb2a9ebaa/public_url]())
+[![DATA ANALYTICS ESSENTIALS](https://img.shields.io/badge/DATA%20ANALYTICS%20ESSENTIALS-%20-brightgreen)](https://www.credly.com/badges/8acf52ec-68ac-4e8e-96ee-d30eb2a9ebaa/public_url]()) [![Excel Essentials for Data Analytics](https://img.shields.io/badge/EXCEL%20ESSENTIALS%20FOR%20DATA%20ANALYTICS-%20-brightgreen)](https://www.credly.com/badges/afabb3d6-8d9c-47be-877e-f21e7de81471())
+
+
 
